@@ -97,7 +97,6 @@ LAF cd_add_soundset
     cd_select_rare8      = RESOLVE_STR_REF(@163) //  3_
     cd_shadows           = RESOLVE_STR_REF(@164) //  5
     cd_tired1            = RESOLVE_STR_REF(@165) //  c
-    cd_tired2            = RESOLVE_STR_REF(@166) //  4_
     cd_trap              = RESOLVE_STR_REF(@167) //  7
     cd_unhappy_1         = RESOLVE_STR_REF(@168) //  5_
     cd_unhappy_2         = RESOLVE_STR_REF(@169) //  6_

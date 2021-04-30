@@ -8,12 +8,16 @@ This mod adds the Planescape Torment characters' voices into the Infinity Engine
 Initial build.
 Includes Fall-From-Grace, Annah-of-the-Shadows and Nodrom.
 
-### 0.5.1.
+### 0.5.1
 
 Fix all the failstart bugs.
  - Fix misplaced Version line in the tp2.
  - Delete unused entries so they don't skewer up the reaction RNG.
  - Fix case mismatch in the LUA.
+
+### 0.5.2
+
+Delete a still-remaining unused entry on Fall-From-Grace.
 
 ## Acknowledgments
 Thanks for CamDawg for [his documentation on EE 2.6+ voicesets](https://github.com/Gibberlings3/EE_soundset_tool).
