@@ -24,6 +24,11 @@ Delete a still-remaining unused entry on Fall-From-Grace.
 Add Dak'kon, Ignus, Morte Vhailor and The Nameless One.
 Convert all sounds to Vorbis from PCM.
 
+### 1.0.1
+
+Add forum link for support.
+Fix WeiDU version mismatch.
+
 ## Acknowledgments
 Thanks for CamDawg for [his documentation on EE 2.6+ voicesets](https://github.com/Gibberlings3/EE_soundset_tool).
 Thanks for Smeagolheart for the [Awesome Soundsets documentation](https://forums.beamdog.com/discussion/38319/mods-awesome-soundsets-mods-master-thread-custom-soundsets-for-bgee-bg2ee-and-iwdee/p1), inspiring to create this mod.
