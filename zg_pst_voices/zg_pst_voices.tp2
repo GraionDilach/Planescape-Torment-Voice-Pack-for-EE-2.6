@@ -1,5 +1,5 @@
 BACKUP ~zg_pst_voices/backup~ // location to store files for uninstall purposes
-VERSION ~1.0.2~
+VERSION ~1.1.0~
 SUPPORT "https://forums.beamdog.com/discussion/82008/graions-soundsets-for-bg-sod-bg2-iwd-ee-2-6/"
 
 
@@ -100,12 +100,12 @@ LAF cd_add_soundset
     cd_trap              = RESOLVE_STR_REF(@167) //  7
     cd_unhappy_1         = RESOLVE_STR_REF(@168) //  5_
     cd_unhappy_2         = RESOLVE_STR_REF(@169) //  6_
-  STR_VAR cd_name = "ZGFFG"
+  STR_VAR cd_name = "ZGPFFG"
 END
 ////Graion additions:
 LAF zg_add_name_to_soundset
   INT_VAR zg_prettyname = RESOLVE_STR_REF(@100)
-  STR_VAR zg_filename = "ZGFFG"
+  STR_VAR zg_filename = "ZGPFFG"
 END
 
 //========================
@@ -176,12 +176,12 @@ LAF cd_add_soundset
     cd_tired1            = RESOLVE_STR_REF(@265) //  c
     cd_trap              = RESOLVE_STR_REF(@267) //  7
     cd_unhappy_1         = RESOLVE_STR_REF(@268) //  5_
-  STR_VAR cd_name = "ZGANA"
+  STR_VAR cd_name = "ZGPANA"
 END
 ////Graion additions:
 LAF zg_add_name_to_soundset
   INT_VAR zg_prettyname = RESOLVE_STR_REF(@200)
-  STR_VAR zg_filename = "ZGANA"
+  STR_VAR zg_filename = "ZGPANA"
 END
 
 //==========
@@ -239,12 +239,12 @@ LAF cd_add_soundset
     cd_trap              = RESOLVE_STR_REF(@367) //  7
     cd_unhappy_1         = RESOLVE_STR_REF(@368) //  5_
     cd_unhappy_2         = RESOLVE_STR_REF(@369) //  6_
-  STR_VAR cd_name = "ZGNOR"
+  STR_VAR cd_name = "ZGPNOR"
 END
 ////Graion additions:
 LAF zg_add_name_to_soundset
   INT_VAR zg_prettyname = RESOLVE_STR_REF(@300)
-  STR_VAR zg_filename = "ZGNOR"
+  STR_VAR zg_filename = "ZGPNOR"
 END
 
 //===========
@@ -304,12 +304,12 @@ LAF cd_add_soundset
     cd_tired1             = RESOLVE_STR_REF(@465) //  c
     cd_trap               = RESOLVE_STR_REF(@467) //  7
     cd_unhappy_1          = RESOLVE_STR_REF(@468) //  5_ (unofficial)
-  STR_VAR cd_name = "ZGDAK"
+  STR_VAR cd_name = "ZGPDAK"
 END
 ////Graion additions:
 LAF zg_add_name_to_soundset
   INT_VAR zg_prettyname = RESOLVE_STR_REF(@400)
-  STR_VAR zg_filename = "ZGDAK"
+  STR_VAR zg_filename = "ZGPDAK"
 END
 
 //===========
@@ -372,12 +372,12 @@ LAF cd_add_soundset
     cd_trap               = RESOLVE_STR_REF(@567) //  7
     cd_unhappy_1          = RESOLVE_STR_REF(@568) //  5_ (unofficial)
     cd_unhappy_2          = RESOLVE_STR_REF(@569) //  6_ (unofficial)
-  STR_VAR cd_name = "ZGVHA"
+  STR_VAR cd_name = "ZGPVHA"
 END
 ////Graion additions:
 LAF zg_add_name_to_soundset
   INT_VAR zg_prettyname = RESOLVE_STR_REF(@500)
-  STR_VAR zg_filename = "ZGVHA"
+  STR_VAR zg_filename = "ZGPVHA"
 END
 
 //=========
@@ -439,12 +439,12 @@ LAF cd_add_soundset
     cd_trap               = RESOLVE_STR_REF(@667) //  7
     cd_unhappy_1          = RESOLVE_STR_REF(@668) //  5_ (unofficial)
     cd_unhappy_2          = RESOLVE_STR_REF(@669) //  6_ (unofficial)
-  STR_VAR cd_name = "ZGIGN"
+  STR_VAR cd_name = "ZGPIGN"
 END
 ////Graion additions:
 LAF zg_add_name_to_soundset
   INT_VAR zg_prettyname = RESOLVE_STR_REF(@600)
-  STR_VAR zg_filename = "ZGIGN"
+  STR_VAR zg_filename = "ZGPIGN"
 END
 
 //====================
@@ -495,12 +495,12 @@ LAF cd_add_soundset
     cd_shadows            = RESOLVE_STR_REF(@764) //  5
     cd_tired1             = RESOLVE_STR_REF(@765) //  c
     cd_trap               = RESOLVE_STR_REF(@767) //  7
-  STR_VAR cd_name = "ZGNAM"
+  STR_VAR cd_name = "ZGPNAM"
 END
 ////Graion additions:
 LAF zg_add_name_to_soundset
   INT_VAR zg_prettyname = RESOLVE_STR_REF(@700)
-  STR_VAR zg_filename = "ZGNAM"
+  STR_VAR zg_filename = "ZGPNAM"
 END
 
 //=========
@@ -571,10 +571,10 @@ LAF cd_add_soundset
     cd_trap               = RESOLVE_STR_REF(@867) //  7
     cd_unhappy_1          = RESOLVE_STR_REF(@868) //  5_ (unofficial)
     cd_unhappy_2          = RESOLVE_STR_REF(@869) //  6_ (unofficial)
-  STR_VAR cd_name = "ZGMRT"
+  STR_VAR cd_name = "ZGPMRT"
 END
 ////Graion additions:
 LAF zg_add_name_to_soundset
   INT_VAR zg_prettyname = RESOLVE_STR_REF(@800)
-  STR_VAR zg_filename = "ZGMRT"
+  STR_VAR zg_filename = "ZGPMRT"
 END
