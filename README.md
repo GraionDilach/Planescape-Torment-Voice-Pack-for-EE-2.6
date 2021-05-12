@@ -18,7 +18,7 @@ Fix WeiDU version mismatch.
 
 ### 1.0.0
 
-Add Dak'kon, Ignus, Morte Vhailor and The Nameless One.
+Add Dak'kon, Ignus, Morte, Vhailor and The Nameless One.
 Convert all sounds to Vorbis from PCM.
 
 ### 0.5.2
