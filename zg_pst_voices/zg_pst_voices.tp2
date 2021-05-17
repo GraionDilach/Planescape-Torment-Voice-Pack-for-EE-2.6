@@ -1,6 +1,7 @@
 BACKUP ~zg_pst_voices/backup~ // location to store files for uninstall purposes
-VERSION ~1.1.0~
 SUPPORT "https://forums.beamdog.com/discussion/82008/graions-soundsets-for-bg-sod-bg2-iwd-ee-2-6/"
+VERSION ~1.1.1~
+
 
 
 LANGUAGE ~English~ ~english~ ~%MOD_FOLDER%/english/setup.tra~

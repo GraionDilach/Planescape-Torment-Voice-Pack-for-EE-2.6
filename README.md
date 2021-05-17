@@ -4,6 +4,10 @@
 This mod adds the Planescape Torment characters' voices into the Infinity Engine (Baldur's Gate/Baldur's Gate II/Icewind Dale) Enhanced Edition games version 2.6 or above.
 
 ## Version history
+### 1.1.1
+Flip the order of VERSION and SUPPORT in WeiDU.
+1.0.2 was a failstart but I probably mixed up my local test folders to realize it.
+
 ### 1.1.0
 
 Rename all voice files for better grouping when there are multiple audio mods installed.
@@ -11,6 +15,7 @@ Rename all voice files for better grouping when there are multiple audio mods in
 ### 1.0.2
 
 Remove AUTHOR because SUPPORT and AUTHOR conflicts.
+
 ### 1.0.1
 
 Add forum link for support.
