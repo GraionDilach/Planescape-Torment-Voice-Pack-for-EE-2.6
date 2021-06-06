@@ -40,8 +40,8 @@ END
 //==Fall-From-Grace==
 //===================
 
-LAF cd_add_soundset 
-  INT_VAR 
+LAF cd_add_soundset
+  INT_VAR
     cd_action1           = RESOLVE_STR_REF(@101) //  i
     cd_action2           = RESOLVE_STR_REF(@102) //  j
     cd_action3           = RESOLVE_STR_REF(@103) //  k
@@ -113,8 +113,8 @@ END
 //==Annah-of-the-Shadows==
 //========================
 
-LAF cd_add_soundset 
-  INT_VAR 
+LAF cd_add_soundset
+  INT_VAR
     cd_action1           = RESOLVE_STR_REF(@201) //  i
     cd_action2           = RESOLVE_STR_REF(@202) //  j
     cd_action3           = RESOLVE_STR_REF(@203) //  k
@@ -189,8 +189,8 @@ END
 //==Nordom==
 //==========
 
-LAF cd_add_soundset 
-  INT_VAR 
+LAF cd_add_soundset
+  INT_VAR
     cd_action1           = RESOLVE_STR_REF(@301) //  i
     cd_action2           = RESOLVE_STR_REF(@302) //  j
     cd_action3           = RESOLVE_STR_REF(@303) //  k
@@ -252,8 +252,8 @@ END
 //==Dak'kon==
 //===========
 
-LAF cd_add_soundset 
-  INT_VAR 
+LAF cd_add_soundset
+  INT_VAR
     cd_action1            = RESOLVE_STR_REF(@401) //  i
     cd_action2            = RESOLVE_STR_REF(@402) //  j
     cd_action3            = RESOLVE_STR_REF(@403) //  k
@@ -317,8 +317,8 @@ END
 //==Vhailor==
 //===========
 
-LAF cd_add_soundset 
-  INT_VAR 
+LAF cd_add_soundset
+  INT_VAR
     cd_action1            = RESOLVE_STR_REF(@501) //  i
     cd_action2            = RESOLVE_STR_REF(@502) //  j
     cd_action3            = RESOLVE_STR_REF(@503) //  k
@@ -385,8 +385,8 @@ END
 //==Ignus==
 //=========
 
-LAF cd_add_soundset 
-  INT_VAR 
+LAF cd_add_soundset
+  INT_VAR
     cd_action1            = RESOLVE_STR_REF(@601) //  i
     cd_action2            = RESOLVE_STR_REF(@602) //  j
     cd_action3            = RESOLVE_STR_REF(@603) //  k
@@ -452,8 +452,8 @@ END
 //==The Nameless One==
 //====================
 
-LAF cd_add_soundset 
-  INT_VAR 
+LAF cd_add_soundset
+  INT_VAR
     cd_action1            = RESOLVE_STR_REF(@701) //  i
     cd_action2            = RESOLVE_STR_REF(@702) //  j
     cd_action3            = RESOLVE_STR_REF(@703) //  k
@@ -508,8 +508,8 @@ END
 //==Morte==
 //=========
 
-LAF cd_add_soundset 
-  INT_VAR 
+LAF cd_add_soundset
+  INT_VAR
     cd_action1            = RESOLVE_STR_REF(@801) //  i
     cd_action2            = RESOLVE_STR_REF(@802) //  j
     cd_action3            = RESOLVE_STR_REF(@803) //  k
