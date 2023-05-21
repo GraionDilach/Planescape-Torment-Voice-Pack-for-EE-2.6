@@ -1,4 +1,4 @@
-BACKUP ~zg_pst_voices/backup~ // location to store files for uninstall purposes
+BACKUP ~weidu_external/zg_pst_voices/backup~ // location to store files for uninstall purposes
 SUPPORT "https://forums.beamdog.com/discussion/82008/graions-soundsets-for-bg-sod-bg2-iwd-ee-2-6/"
 VERSION ~1.1.2~
 
@@ -16,6 +16,8 @@ LANGUAGE ~English~ ~english~ ~%MOD_FOLDER%/english/setup.tra~
 
 BEGIN @0
 LABEL ZG-VOICE-PST
+
+ACTION_IF ((FILE_EXISTS ~dlc/sod-dlc.zip~) OR (FILE_EXISTS ~sod-dlc.zip~)) THEN BEGIN FAIL @1 END
 
 INCLUDE ~%MOD_FOLDER%/tph/cd_add_soundset.tph~ // includes the macro that does the work
 
