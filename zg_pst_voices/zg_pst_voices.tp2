@@ -1,6 +1,6 @@
 BACKUP ~weidu_external/zg_pst_voices/backup~ // location to store files for uninstall purposes
 SUPPORT "https://forums.beamdog.com/discussion/82008/graions-soundsets-for-bg-sod-bg2-iwd-ee-2-6/"
-VERSION ~1.1.2~
+VERSION ~1.3.0~
 
 
 
@@ -74,8 +74,8 @@ LAF cd_add_soundset
     cd_criticalhit       = RESOLVE_STR_REF(@132) //  z
     cd_criticalmiss      = RESOLVE_STR_REF(@133) //  1 (number)
     cd_damage1           = RESOLVE_STR_REF(@134) //  l (letter)
-    cd_damage2           = RESOLVE_STR_REF(@135) //  n_
-    cd_damage3           = RESOLVE_STR_REF(@136) //  o_
+    // cd_damage2           = RESOLVE_STR_REF(@135) //  n_
+    // cd_damage3           = RESOLVE_STR_REF(@136) //  o_
     cd_day               = RESOLVE_STR_REF(@137) //  q
     cd_disrupted         = RESOLVE_STR_REF(@138) //  6
     cd_dungeon           = RESOLVE_STR_REF(@139) //  p
@@ -147,7 +147,7 @@ LAF cd_add_soundset
     cd_criticalhit       = RESOLVE_STR_REF(@232) //  z
     cd_criticalmiss      = RESOLVE_STR_REF(@233) //  1 (number)
     cd_damage1           = RESOLVE_STR_REF(@234) //  l (letter)
-    cd_damage2           = RESOLVE_STR_REF(@235) //  n_
+    // cd_damage2           = RESOLVE_STR_REF(@235) //  n_
     cd_day               = RESOLVE_STR_REF(@237) //  q
     cd_disrupted         = RESOLVE_STR_REF(@238) //  6
     cd_dungeon           = RESOLVE_STR_REF(@239) //  p
@@ -220,7 +220,7 @@ LAF cd_add_soundset
     cd_criticalhit       = RESOLVE_STR_REF(@332) //  z
     cd_criticalmiss      = RESOLVE_STR_REF(@333) //  1 (number)
     cd_damage1           = RESOLVE_STR_REF(@334) //  l (letter)
-    cd_damage2           = RESOLVE_STR_REF(@335) //  n_
+    // cd_damage2           = RESOLVE_STR_REF(@335) //  n_
     cd_day               = RESOLVE_STR_REF(@337) //  q
     cd_disrupted         = RESOLVE_STR_REF(@338) //  6
     cd_dying1            = RESOLVE_STR_REF(@340) //  m
@@ -284,8 +284,8 @@ LAF cd_add_soundset
     cd_criticalhit        = RESOLVE_STR_REF(@432) //  z
     cd_criticalmiss       = RESOLVE_STR_REF(@433) //  1  (number)
     cd_damage1            = RESOLVE_STR_REF(@434) //  l  (letter)
-    cd_damage2            = RESOLVE_STR_REF(@435) //  n_ (unofficial)
-    cd_damage3            = RESOLVE_STR_REF(@436) //  o_ (unofficial)
+    // cd_damage2            = RESOLVE_STR_REF(@435) //  n_ (unofficial)
+    // cd_damage3            = RESOLVE_STR_REF(@436) //  o_ (unofficial)
     cd_day                = RESOLVE_STR_REF(@437) //  q
     cd_disrupted          = RESOLVE_STR_REF(@438) //  6
     cd_dungeon            = RESOLVE_STR_REF(@439) //  p
@@ -349,8 +349,8 @@ LAF cd_add_soundset
     cd_criticalhit        = RESOLVE_STR_REF(@532) //  z
     cd_criticalmiss       = RESOLVE_STR_REF(@533) //  1  (number)
     cd_damage1            = RESOLVE_STR_REF(@534) //  l  (letter)
-    cd_damage2            = RESOLVE_STR_REF(@535) //  n_ (unofficial)
-    cd_damage3            = RESOLVE_STR_REF(@536) //  o_ (unofficial)
+    // cd_damage2            = RESOLVE_STR_REF(@535) //  n_ (unofficial)
+    // cd_damage3            = RESOLVE_STR_REF(@536) //  o_ (unofficial)
     cd_day                = RESOLVE_STR_REF(@537) //  q
     cd_disrupted          = RESOLVE_STR_REF(@538) //  6
     cd_dungeon            = RESOLVE_STR_REF(@539) //  p
@@ -481,8 +481,8 @@ LAF cd_add_soundset
     cd_criticalhit        = RESOLVE_STR_REF(@732) //  z
     cd_criticalmiss       = RESOLVE_STR_REF(@733) //  1  (number)
     cd_damage1            = RESOLVE_STR_REF(@734) //  l  (letter)
-    cd_damage2            = RESOLVE_STR_REF(@735) //  n_ (unofficial)
-    cd_damage3            = RESOLVE_STR_REF(@736) //  o_ (unofficial)
+    // cd_damage2            = RESOLVE_STR_REF(@735) //  n_ (unofficial)
+    // cd_damage3            = RESOLVE_STR_REF(@736) //  o_ (unofficial)
     cd_disrupted          = RESOLVE_STR_REF(@738) //  6
     cd_dying1             = RESOLVE_STR_REF(@740) //  m
     cd_hurt1              = RESOLVE_STR_REF(@746) //  e
@@ -542,8 +542,8 @@ LAF cd_add_soundset
     cd_criticalhit        = RESOLVE_STR_REF(@832) //  z
     cd_criticalmiss       = RESOLVE_STR_REF(@833) //  1  (number)
     cd_damage1            = RESOLVE_STR_REF(@834) //  l  (letter)
-    cd_damage2            = RESOLVE_STR_REF(@835) //  n_ (unofficial)
-    cd_damage3            = RESOLVE_STR_REF(@836) //  o_ (unofficial)
+    // cd_damage2            = RESOLVE_STR_REF(@835) //  n_ (unofficial)
+    // cd_damage3            = RESOLVE_STR_REF(@836) //  o_ (unofficial)
     cd_day                = RESOLVE_STR_REF(@837) //  q
     cd_disrupted          = RESOLVE_STR_REF(@838) //  6
     cd_dungeon            = RESOLVE_STR_REF(@839) //  p
